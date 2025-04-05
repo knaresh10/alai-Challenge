@@ -1,0 +1,16 @@
+annotated-types==0.7.0
+beautifulsoup4==4.12.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+firecrawl==1.15.0
+idna==3.10
+nest-asyncio==1.6.0
+pydantic==2.11.2
+pydantic_core==2.33.1
+python-dotenv==1.0.0
+requests==2.31.0
+soupsieve==2.6
+typing-inspection==0.4.0
+typing_extensions==4.13.1
+urllib3==2.3.0
+websockets==15.0.1
